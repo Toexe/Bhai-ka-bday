@@ -30,8 +30,11 @@ background: linear-gradient(to bottom right, #ff00ff, #6a0dad);
 
 /* Birthday message styling */
 h1{
+font-family: 'Bree Serif';
+font-style: normal;
+font-weight: 400;
 font-size: 36px;
-color: #333;
+color: #000000;
 text-align: center;
 margin-top: 500px;
 font-weight: bold;
@@ -55,6 +58,8 @@ margin-top: 50px;
 
 /* hidden text */
 .hidden-text{
+font-family: 'Brawler';
+font-style: normal;
 opacity: 0;
 transform: translateY(30px);
 transition: opacity 0.5s ease, transform 0.5s ease;
@@ -73,6 +78,8 @@ transform: translateY(0) !important;
 
 /* last Heading */
 h2{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+font-style: normal;
 font-size: 2rem;
 color: black;
 margin-top: 40px;
@@ -81,6 +88,7 @@ text-align: center;
 
 /* hidden word */
 .hidden-word {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 display: inline-block;
 opacity: 0;
 transform: translateY(20px);
@@ -100,6 +108,7 @@ margin-bottom: 20px;
 
 /* sayonara txt */
 p3{
+font-family: "Brush Script MT", cursive;
 font-size: 1.2rem;
 color: black;
 text-align: center;
