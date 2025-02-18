@@ -30,7 +30,7 @@ background: linear-gradient(to bottom right, #ff00ff, #6a0dad);
 
 /* Birthday message styling */
 h1{
-font-family: 'Bree Serif';
+font-family: 'Impact';
 font-style: normal;
 font-weight: 400;
 font-size: 36px;
@@ -58,7 +58,7 @@ margin-top: 50px;
 
 /* hidden text */
 .hidden-text{
-font-family: 'Brawler';
+font-family: 'Georgia';
 font-style: normal;
 opacity: 0;
 transform: translateY(30px);
