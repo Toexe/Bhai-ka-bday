@@ -118,7 +118,7 @@ margin-top: 50px; mobile and tablet */
 @media (max-width:768px) {
 h1 {
     font-size: 24px;
-    margin-top: 600px;
+    margin-top: 800px;
 }
 img{
 max-width: 300px;
